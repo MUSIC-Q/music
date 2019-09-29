@@ -13,14 +13,14 @@
 // If you don't know how to get a user token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token= ضع التوكن هنا
+token=NjI3ODM1MTI1Mzg4MDE3NjY1.XZCheg.1z9Y1I_oyQqUgRLXtkf-08StOIU
 
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner=الايدي حق حسابك
+owner=509693098926931989
 
 
 // This sets the prefix for the bot
@@ -29,7 +29,7 @@ owner=الايدي حق حسابك
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 // If you make this blank, the bot will not use a prefix
 
-prefix=الرمز للتحكم
+prefix=4
 
 
 /////////////////////////////////////////////////////////////
@@ -45,7 +45,7 @@ prefix=الرمز للتحكم
 // where X is the title. If you don't include an action, it will use the
 // default of 'Playing'
 //
-game=اسامة تك :
+game=..
 
 
 // If you set this, it will modify the default status of bot
